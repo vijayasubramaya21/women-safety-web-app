@@ -17,8 +17,6 @@ Safe Guard is a full-stack web application designed to enhance women safety usin
 - Web Speech API
 
 ## 📷 Screenshots
-## 📷 Screenshots
-
 ![Signup](screenshots/signup.png)
 ![Login](screenshots/login.png)
 ![Home](screenshots/home.png)
